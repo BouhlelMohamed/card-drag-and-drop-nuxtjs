@@ -1,4 +1,4 @@
-# <a href="http://vps-719367d6.vps.ovh.net:3000/">DEMO</a>
+# <a href="51.38.51.109:3000/">DEMO</a>
 
 
 ## Build Setup
